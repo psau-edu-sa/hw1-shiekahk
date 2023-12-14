@@ -1,4 +1,4 @@
-# About The reaserch 
+# About the reaserch 
 We conducted an analysis of the Ted-ed website wich it a website and educational platform associated with TED conference.
 It offers a collection of educational videos and lessons created by educators and experts on a wide range of topics,
 designed to promote learning and knowledge sharing. These lessons are mostly in the form of animated videos
